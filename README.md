@@ -6,7 +6,7 @@ Modern, responsive ve tema destekli kişisel web sitesi. React ve TypeScript kul
 ## Özellikler
 - 🌓 Dark/Light Tema Desteği
 - 📱 Responsive Tasarım
-- 🚀 Modern UI/UX
+- 🚀 Modern UI/UXxx
 - 🔍 Proje Filtreleme
 - 🌐 Çoklu Sayfa Yapısı
 
