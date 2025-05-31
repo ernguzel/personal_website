@@ -1,4 +1,4 @@
-# Eren'in Kişisel Web Sitesi
+![image](https://github.com/user-attachments/assets/10c9b2e8-85f4-4074-b260-32df87c910f3)# Eren'in Kişisel Web Sitesi
 
 ## Proje Açıklaması
 Modern, responsive ve tema destekli kişisel web sitesi. React ve TypeScript kullanılarak geliştirilmiştir.
@@ -68,3 +68,6 @@ npm run build
 
 ## Lisans
 MIT Lisansı
+
+
+![image](https://github.com/user-attachments/assets/0c5c3554-af89-4c6c-a388-0004c1d72ff5)
